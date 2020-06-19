@@ -98,7 +98,7 @@ git clone https://github.com/alievk/avatarify.git
 ```
 3. Build the Dockerfile:
 ```bash
-sudo docker build -t avatarify
+docker build -t avatarify
 ```
 
 #### Mac
